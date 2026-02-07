@@ -21,8 +21,7 @@ This project focuses on layout design, typography, spacing, and structuring cont
 
 ## 🌐 Live Demo
 View the project live here:  
-https://sadiapuspita.github.io/magazine/
-
+https://sadiapuspita.github.io/Magazine/
 ---
 
 ## 🛠 Technologies Used
